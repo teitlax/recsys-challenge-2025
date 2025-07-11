@@ -1,0 +1,17 @@
+polars
+pandas
+numpy
+tqdm
+pyarrow
+rich
+zstandard
+scipy
+torch
+transformers
+accelerate
+peft
+bitsandbytes
+unsloth
+networkit
+sentence-transformers
+huggingface_hub
